@@ -15,3 +15,17 @@ CREATE TABLE users (
   nb_mots integer
 );
 ```
+
+The routes: 
+```
+localhost:3001/api/register 
+ ``` 
+ to register a user entering form encoded name, email and password 
+``` 
+localhost:3001/api/login
+```
+ to login using email and password 
+``` 
+localhost:3001/api/justify 
+```
+ to justify the text entered in the body 
