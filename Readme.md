@@ -1,3 +1,6 @@
+A NodeJs App to justify a given text with login and register and middelware that allows only 80000 words per day 
+
+
 First of all create the database 
 ``` 
 CREATE DATABASE api; 
